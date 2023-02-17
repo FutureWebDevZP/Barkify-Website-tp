@@ -1,0 +1,12 @@
+.banner {
+    background-color: gray;
+    color: black;
+    margin-top: 75px;
+    text-align: center;
+    padding: 100px 0;
+}
+
+#small-barkie {
+    height: 100px;
+    width: 100px;
+}
