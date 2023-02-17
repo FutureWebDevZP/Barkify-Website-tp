@@ -10,3 +10,14 @@
     height: 100px;
     width: 100px;
 }
+
+#barkie {
+    color: black;
+    font-size: 100px
+}
+
+.bold {
+    font-weight: 900;
+}
+
+/* This is how you make comments in CSS using: /*
