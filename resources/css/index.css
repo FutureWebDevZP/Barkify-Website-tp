@@ -9,7 +9,9 @@
 #small-barkie {
     height: 100px;
     width: 100px;
+    filter: drop-shadow(1px 1px 1px black); 
 }
+
 
 #barkie {
     color: black;
@@ -21,3 +23,4 @@
 }
 
 /* This is how you make comments in CSS using: /*
+/* dropshadow is how you make an image have a shadow effect\*
